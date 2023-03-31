@@ -1,3 +1,4 @@
 *.js @danilomarcus
 .github/ @danilomarcus
 *.go danilomarcusti
+*.html @danilomarcus
